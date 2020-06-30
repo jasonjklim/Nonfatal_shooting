@@ -1,0 +1,163 @@
+"Incident ID","Incident Date",State,"City Or County",Address,"# Killed","# Injured",Operations
+1698860,"June 6, 2020",California,Sacramento,"Cummins Way and Kegle Dr",0,0,N/A
+1699527,"June 6, 2020",Utah,"Salt Lake City (Murray)","5669 Commerce Dr",0,1,N/A
+1699500,"June 6, 2020","New York","Spring Valley","Kearsing Pkwy",0,0,N/A
+1698946,"June 6, 2020",Ohio,Toledo,"540 E Broadway St",1,0,N/A
+1698844,"June 6, 2020",Alabama,Troy,"1000 block of US-231",1,2,N/A
+1698835,"June 6, 2020",Michigan,Detroit,"Outer Dr E and Wade St",0,1,N/A
+1698841,"June 6, 2020",California,Oakland,"1800 block of E 23rd St",0,1,N/A
+1698840,"June 6, 2020",Michigan,Detroit,"W 8 Mile Rd and Livernois St",0,0,N/A
+1698836,"June 6, 2020",California,Oakland,"1200 block of 88th Ave",0,3,N/A
+1698751,"June 6, 2020","New Mexico",Albuquerque,"7111 Acton Ct NW",1,0,N/A
+1698834,"June 6, 2020",Michigan,Detroit,"Terry Ave and Plymouth Rd",0,0,N/A
+1698830,"June 6, 2020",Michigan,Detroit,"Frankfort St and Lakeview St",1,1,N/A
+1699469,"June 6, 2020",Michigan,Romulus,"28000 block of Zellmer St",0,2,N/A
+1698833,"June 6, 2020",Michigan,Detroit,"19900 Conant St",0,0,N/A
+1699464,"June 6, 2020",Louisiana,Walker,"Cane Market Rd",0,2,N/A
+1698828,"June 6, 2020",Nebraska,Omaha,"93rd St and Fort St",0,1,N/A
+1699457,"June 6, 2020",Louisiana,"New Orleans","4800 block of Montegut Dr",0,1,N/A
+1698824,"June 6, 2020",Michigan,Detroit,"Britain Ave and Somerset Ave",0,1,N/A
+1699443,"June 6, 2020",Ohio,Ashtabula,"W 47th St and West Ave",0,1,N/A
+1699029,"June 6, 2020",Pennsylvania,Philadelphia,"58th St and Trinity St",0,1,N/A
+1699435,"June 6, 2020",Michigan,Jackson,"606 Blair Park Dr",1,0,N/A
+1699432,"June 6, 2020",Pennsylvania,Philadelphia,"2900 block of Waterloo St",0,2,N/A
+1698822,"June 6, 2020",Maryland,Baltimore,"1800 block of N Carey St",0,1,N/A
+1698490,"June 6, 2020","South Carolina",Greenwood,"859 Meadow St",1,0,N/A
+1698812,"June 6, 2020",Colorado,Pueblo,"2100 block of E 14th St",0,0,N/A
+1698808,"June 6, 2020",Georgia,Macon,"Thomas St and Houston Ave",0,1,N/A
+1698800,"June 6, 2020",Michigan,Detroit,"14200 block of Crescent Dr",0,3,N/A
+1699403,"June 6, 2020",Ohio,Cleveland,"500 block of E 108th St",1,0,N/A
+1698797,"June 6, 2020",Michigan,Detroit,"8800 block of Wyoming Ave",0,1,N/A
+1698785,"June 6, 2020",Michigan,Detroit,"Tireman Ave and Epworth St",0,1,N/A
+1698781,"June 6, 2020",Michigan,Kalamazoo,"800 block of Woodbury Ave",0,1,N/A
+1698779,"June 6, 2020",Alabama,Birmingham,"6800 block of 1st Ave N",1,0,N/A
+1699389,"June 6, 2020",Ohio,Columbus,"Refugee Rd and Gender Rd",0,1,N/A
+1698767,"June 6, 2020","New York",Rochester,"780 Dewey Ave",0,1,N/A
+1698769,"June 6, 2020",Texas,Houston,"9955 Main St",0,1,N/A
+1698761,"June 6, 2020",Texas,Houston,"12000 block of Martin Luther King Blvd",0,1,N/A
+1698766,"June 6, 2020",Texas,Houston,"9700 block of Meyer Forest Dr",0,0,N/A
+1698757,"June 6, 2020",Texas,Houston,"2700 block of W Orem Dr",0,1,N/A
+1698756,"June 6, 2020","District of Columbia",Washington,"2700 block of Bruce Pl SE",0,0,N/A
+1699371,"June 6, 2020",Georgia,Atlanta,"Lena St NW and Ollie St NW",0,1,N/A
+1698609,"June 6, 2020",Kentucky,Louisville,"1100 block of Lincoln Ave",0,1,N/A
+1698748,"June 6, 2020","New York","Niagara Falls","13th St and Whitney Ave",0,0,N/A
+1698743,"June 6, 2020",Illinois,Rockford,"3424 N Main St",0,2,N/A
+1698739,"June 6, 2020",Texas,Houston,"12000 block of Fondren Rd",0,0,N/A
+1698732,"June 6, 2020",Arizona,Glendale,"N 75th Ave and W Glenn Dr",0,1,N/A
+1698724,"June 6, 2020",Texas,Amarillo,"2300 Soncy Rd",1,0,N/A
+1698735,"June 6, 2020","New York",Brooklyn,"578 52nd St",0,2,N/A
+1698717,"June 6, 2020",Ohio,Cleveland,"6900 block of Hough Ave",0,1,N/A
+1698387,"June 6, 2020",Illinois,"Chicago Heights (Ford Heights)","1400 block of Diplomat Ln",1,1,N/A
+1698711,"June 6, 2020",Ohio,Cleveland,"500 block of E 110th S",0,1,N/A
+1698709,"June 6, 2020",Ohio,Cleveland,"5200 block of Memphis Ave",0,0,N/A
+1698729,"June 6, 2020",Tennessee,Chattanooga,"Water St and Highland Ave",0,2,N/A
+1698704,"June 6, 2020",Ohio,Cleveland,"12100 block of Lenacrave Ave",0,2,N/A
+1698690,"June 6, 2020",Ohio,Cincinnati,"1300 block of Boyd St",1,0,N/A
+1699348,"June 6, 2020",Oregon,"Coos Bay","S Broadway and Curtis Ave",0,0,N/A
+1698684,"June 6, 2020",Ohio,Cleveland,"E 55th St and Central Ave",1,1,N/A
+1698680,"June 6, 2020","New York","Corona (Queens)","73rd Ave and Parsons Blvd",0,0,N/A
+1698667,"June 6, 2020",Tennessee,Memphis,"2883 Filmore Ave",0,1,N/A
+1699344,"June 6, 2020",Missouri,"Saint Louis","3600 block of Oregon Ave",0,1,N/A
+1698663,"June 6, 2020","New York",Bronx,"E 166th St and Morris Ave",0,1,N/A
+1698661,"June 6, 2020","New York",Brooklyn,"Utica Ave and Eastern Pkwy",0,1,N/A
+1698659,"June 6, 2020","New York","Corona (Queens)","115-24 10th Ave",1,0,N/A
+1698657,"June 6, 2020","New York",Brooklyn,"E New York Ave and Mother Gaston Blvd",0,1,N/A
+1698653,"June 6, 2020",Pennsylvania,"Kingston (Edwardsville)","509 Roosevelt St",1,1,N/A
+1698641,"June 6, 2020",Arkansas,"Little Rock","1400 block of Wright Ave",0,2,N/A
+1699111,"June 6, 2020",Texas,Galveston,"5730 Seawall Blvd",0,1,N/A
+1699328,"June 6, 2020",Texas,Galveston,"2900 block of 29th St",0,1,N/A
+1698276,"June 6, 2020",Ohio,Ironton,"1305 S 3rd St",0,4,N/A
+1698615,"June 6, 2020",Connecticut,Bridgeport,"Park  Ave and Wood Ave",0,0,N/A
+1698607,"June 6, 2020",Maine,Waterville,"150 College Ave",0,1,N/A
+1699319,"June 6, 2020",Alabama,Tuscaloosa,"3600 block of Greensboro Ave",1,0,N/A
+1699311,"June 6, 2020",California,Bakersfield,"2600 block of Edmonton St",1,0,N/A
+1699309,"June 6, 2020",Wisconsin,Milwaukee,"4900 block of W Center St",1,0,N/A
+1698868,"June 6, 2020",California,Sacramento,"Gardendale Rd and 29th St",1,4,N/A
+1698306,"June 6, 2020",Missouri,"Kansas City","E 18th St and Vine St",1,4,N/A
+1699289,"June 6, 2020",Texas,Dallas,"US-175 and S Buckner Blvd",0,1,N/A
+1699287,"June 6, 2020",Texas,Dallas,"3000 block of Bickers St",0,1,N/A
+1698410,"June 6, 2020",Louisiana,Shreveport,"3200 block of Boss Ave",1,0,N/A
+1699275,"June 6, 2020",California,"Lake Elsinore","100 Block of Main St",0,1,N/A
+1699273,"June 6, 2020",California,Norco,"3900 block of Mount Shasta Place",0,0,N/A
+1699249,"June 6, 2020",California,Monterey,"Wainwright St",0,0,N/A
+1699247,"June 6, 2020",Texas,"San Antonio","S Acme Rd and Enid Rd",0,1,N/A
+1699241,"June 6, 2020",Pennsylvania,"Port Carbon","129 Jackson St",0,0,N/A
+1698554,"June 6, 2020",Indiana,"South Bend","N Olive St and Bertrand St",0,2,N/A
+1698552,"June 6, 2020",Tennessee,Chattanooga,"Rawling St",0,1,N/A
+1698909,"June 6, 2020",Arkansas,"North Little Rock","4609 E Broadway St",0,1,N/A
+1699231,"June 6, 2020",Alabama,Tuscaloosa,"613 James I Harrison Jr Pkwy",1,0,N/A
+1699228,"June 6, 2020",Alabama,Coker,"13226 Lake Lurleen Rd",0,1,N/A
+1698397,"June 6, 2020",Wisconsin,Milwaukee,"2400 block of N 41st St",1,0,N/A
+1699203,"June 6, 2020",Indiana,"South Bend","1100 block of W Kinyon St",0,0,N/A
+1698521,"June 6, 2020",Wisconsin,Milwaukee,"3500 block of N 15th St",0,1,N/A
+1698511,"June 6, 2020","North Carolina",Charlotte,"100 W Woodlawn Rd",0,1,N/A
+1698492,"June 6, 2020","South Carolina","North Myrtle Beach (Atlantic Beach)","Seaview St and 31st Ave",0,1,N/A
+1699188,"June 6, 2020",Illinois,Decatur,"900 block of E Garfield Ave",0,1,N/A
+1698488,"June 6, 2020","South Carolina",Greenville,"1721 White Horse Rd",1,0,N/A
+1699175,"June 6, 2020",California,"San Joaquin","9th St and Utah Ave",0,1,N/A
+1699170,"June 6, 2020",California,Oakland,"9600 block of Cherry St",1,1,N/A
+1698459,"June 6, 2020",Illinois,Chicago,"5600 block of S Princeton Ave",0,1,N/A
+1699165,"June 6, 2020",California,Oakland,"1600 block of Embarcadeo",1,0,N/A
+1699150,"June 6, 2020","North Carolina",Goldsboro,"1700 Block of Edgerton St",0,2,N/A
+1698453,"June 6, 2020",Illinois,Chicago,"100 block of N Laramie Ave",0,2,N/A
+1699154,"June 6, 2020",Ohio,Cincinnati,"4545 Reading Rd",0,1,N/A
+1699147,"June 6, 2020","North Carolina",Fayetteville,"1000 block of Henderson Ave",1,0,N/A
+1699145,"June 6, 2020",California,"Los Angeles","4300 block of Normal Ave",1,0,N/A
+1698448,"June 6, 2020",Illinois,Chicago,N/A,0,1,N/A
+1699139,"June 6, 2020",Ohio,Cincinnati,"Back St and Hamer St",1,0,N/A
+1698441,"June 6, 2020",Illinois,Chicago,"800 block of E 89th Pl",0,2,N/A
+1699136,"June 6, 2020",California,"Seal Beach","Seal Beach Blvd and Pacific Coast Hwy",0,0,N/A
+1698508,"June 6, 2020","North Carolina",Salisbury,"321 Bendix Dr",0,1,N/A
+1698294,"June 6, 2020",Ohio,Cincinnati,"John St and Wade St",1,0,N/A
+1699127,"June 6, 2020",California,"Long Beach","17th St and Gundry Ave",0,2,N/A
+1698421,"June 6, 2020",Illinois,Chicago,"4000 block of W 21st St",0,1,N/A
+1698419,"June 6, 2020",Georgia,Atlanta,"3900 block of Campbellton Rd",1,0,N/A
+1699106,"June 6, 2020",Alabama,Opelika,"Monroe Ave and Talladega St",1,0,N/A
+1699100,"June 6, 2020",Georgia,"Warner Robins","Alabama Ave",0,1,N/A
+1699082,"June 6, 2020","New York","New York (Manhattan)","129th St and Convent Ave",0,1,N/A
+1698799,"June 6, 2020",Delaware,Lewes,"33000 block of Sandy Bay Dr",0,1,N/A
+1699078,"June 6, 2020",Delaware,Wilmington,"2900 block of N Washington St",0,1,N/A
+1699074,"June 6, 2020",Florida,Tampa,"N 36th St and E Hanna Ave",1,0,N/A
+1698389,"June 6, 2020",Colorado,Aurora,"13698 E Alameda Ave",0,1,N/A
+1699067,"June 6, 2020",Oklahoma,"Broken Arrow","S 6th St and Quinton St",0,1,N/A
+1699054,"June 6, 2020",Florida,Brandon,"4000 block of Forecast Dr",1,2,N/A
+1698753,"June 6, 2020","District of Columbia",Washington,"1300 block of Brentwood Rd NE",1,0,N/A
+1699034,"June 6, 2020",Florida,Apalachicola,"SR 20",0,1,N/A
+1698373,"June 6, 2020",Illinois,Chicago,"9600 block of S Loomis St",0,3,N/A
+1698355,"June 6, 2020",Florida,Miami,"104th Ave and 74th St",0,0,N/A
+1699022,"June 6, 2020",Florida,Jacksonville,"2900 block of Justina Rd",0,1,N/A
+1699018,"June 6, 2020",Illinois,Chicago,"3600 W 16th St",0,1,N/A
+1699016,"June 6, 2020",Florida,Gainesville,N/A,0,1,N/A
+1699011,"June 6, 2020",Illinois,Chicago,"300 W 64th St",0,1,N/A
+1699007,"June 6, 2020",Tennessee,Clarkrange,"Lewis Rd",1,0,N/A
+1698980,"June 6, 2020",Illinois,Chicago,"800 block of E 98th St",1,1,N/A
+1699759,"June 6, 2020",Tennessee,Memphis,N/A,1,0,N/A
+1699754,"June 6, 2020",Georgia,Atlanta,"6120 Peachtree Dunwoody Rd",1,1,N/A
+1699751,"June 6, 2020",Tennessee,Memphis,"3338 Covington Pike",0,2,N/A
+1699482,"June 6, 2020",Arizona,Mesa,"E Pecos Rd and S Ellsworth Rd",0,1,N/A
+1698983,"June 6, 2020",Illinois,Chicago,"1600 block of N Avers Ave",0,0,N/A
+1698428,"June 6, 2020",Illinois,Chicago,"1900 block of S Canalport Ave",0,2,N/A
+1698969,"June 6, 2020",Washington,Tacoma,"S 56th St and S Washington St",2,1,N/A
+1699098,"June 6, 2020",Massachusetts,Randolph,"Christopher Rd and Chestnut St",0,1,N/A
+1698966,"June 6, 2020",Oregon,Sutherlin,"1386 W Central Ave",1,1,N/A
+1699651,"June 6, 2020","New Jersey",Camden,"500 block of S 8th St",1,0,N/A
+1699644,"June 6, 2020","New Jersey",Newark,"261 Vassar Ave",0,0,N/A
+1699642,"June 6, 2020","New Jersey",Newark,"Georgia King Village and Cabinet St",0,1,N/A
+1698948,"June 6, 2020",Ohio,Toledo,"Sterling St",0,1,N/A
+1698856,"June 6, 2020",California,"Ben Lomond","120 Waldeberg Dr",1,3,N/A
+1698931,"June 6, 2020",Oklahoma,Tulsa,"1000 S Garnett Rd",1,0,N/A
+1698929,"June 6, 2020",Montana,Billings,"22nd St and Sixth Ave",0,1,N/A
+1698925,"June 6, 2020",Ohio,Columbus,"200 block of Brehl Ave",0,1,N/A
+1699619,"June 6, 2020",Alabama,Montgomery,"2600 block of Northbelt Dr",0,2,N/A
+1698920,"June 6, 2020",Oklahoma,"Oklahoma City","Featherstone Rd and N May Ave",0,1,N/A
+1699611,"June 6, 2020",Alabama,Montgomery,"900 block of W South Blvd",0,1,N/A
+1698917,"June 6, 2020",Arkansas,Fayetteville,"Betty Jo Dr",0,1,N/A
+1699600,"June 6, 2020",Louisiana,Natchitoches,"247 Keyser Ave",0,0,N/A
+1698904,"June 6, 2020",Connecticut,Bridgeport,"1700 block of E Main St",0,1,N/A
+1699566,"June 6, 2020",Maryland,Sharpsburg,"2000 block of Dargan Rd",2,0,N/A
+1698897,"June 6, 2020",Mississippi,Columbus,N/A,0,1,N/A
+1699561,"June 6, 2020",Louisiana,Rayville,N/A,0,0,N/A
+1698893,"June 6, 2020",California,Stockton,"2300 block of Dry Creek Way",0,0,N/A
+1699554,"June 6, 2020",Tennessee,Chattanooga,"2500 2nd Ave",0,1,N/A
+1699545,"June 6, 2020",Kentucky,Hopkinsville,"Eagle Way",0,0,N/A
+1698873,"June 6, 2020",California,"Chula Vista","900 block of Agua Tibia Ave",1,0,N/A

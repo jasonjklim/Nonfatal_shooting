@@ -1,0 +1,184 @@
+"Incident ID","Incident Date",State,"City Or County",Address,"# Killed","# Injured",Operations
+1688264,"May 25, 2020",Michigan,Detroit,"Pilgrim St and Archdale St",0,1,N/A
+1687767,"May 25, 2020",Alabama,Birmingham,"2300 block of Temptest Dr",1,1,N/A
+1688245,"May 25, 2020",Michigan,"Grand Blanc","Perry Rd and Vassar Rd",0,0,N/A
+1688243,"May 25, 2020",Missouri,"Kansas City (Raytown)","6000 block of Kentucky Ave",0,1,N/A
+1687839,"May 25, 2020",Michigan,Detroit,"5000 block of Barham St",1,0,N/A
+1703862,"May 25, 2020",Texas,Houston,"6300 block of Westward St",0,1,N/A
+1688214,"May 25, 2020",Michigan,Detroit,"1900 E 8 Mile Rd",0,2,N/A
+1687993,"May 25, 2020",Virginia,Portsmouth,"2000 block of Charleston Ave",1,0,N/A
+1688203,"May 25, 2020",Texas,"Eagle Pass","Mathiwos St and El Indio Hwy",1,0,N/A
+1688114,"May 25, 2020",Mississippi,Meridian,"42nd St",1,0,N/A
+1688190,"May 25, 2020",Illinois,Chicago,"2800 block of W Wilcox St",1,1,N/A
+1687895,"May 25, 2020",Kansas,"Kansas City","600 block of S 71st Terrace",0,1,N/A
+1687890,"May 25, 2020",Texas,"Fort Worth","5300 block of E Rosedale St",0,2,N/A
+1689181,"May 25, 2020",Alabama,Montgomery,"300 block of Burgwyn Rd",0,1,N/A
+1690184,"May 25, 2020",Alabama,Montgomery,"2600 block of E South Blvd",0,2,N/A
+1688971,"May 25, 2020",California,Stockton,"2400 block of Burlington Pl",1,0,N/A
+1687933,"May 25, 2020",Kentucky,Jackson,"660 Gross Fork Rd",1,1,N/A
+1689152,"May 25, 2020",Michigan,Detroit,"Mound Rd and E Davison St",0,1,N/A
+1687816,"May 25, 2020",Mississippi,Gulfport,"3318 39th Ave",1,1,N/A
+1688120,"May 25, 2020",Alabama,Opelika,"100 block of Covenant Dr",1,0,N/A
+1688248,"May 25, 2020",Missouri,Columbia,"2700 block of Quail Dr",1,0,N/A
+1688676,"May 25, 2020",Tennessee,Jonesborough,"Polo Ln",1,0,N/A
+1688140,"May 25, 2020","New York",Bronx,"1652 Popham Ave",0,1,N/A
+1688171,"May 25, 2020",Texas,Dallas,"6100 block of Royalton Dr",1,0,N/A
+1710149,"May 25, 2020",Texas,Dallas,"9301 E R L Thornton Fwy",0,0,N/A
+1701080,"May 25, 2020",Louisiana,Covington,"Taylor St and 31st St",0,0,N/A
+1688138,"May 25, 2020","New York",Brooklyn,"E 45th St and Lenox Rd",0,1,N/A
+1689104,"May 25, 2020",Michigan,Detroit,"5300 block of Burns Ave",0,1,N/A
+1688133,"May 25, 2020",Illinois,Bloomington,"1900 block of Tracy Dr",0,1,N/A
+1688132,"May 25, 2020","New York","New York (Manhattan)","2nd Ave and E 118th St",0,0,N/A
+1687646,"May 25, 2020",Michigan,Saginaw,"2322 Mershon St",1,0,N/A
+1689091,"May 25, 2020",Michigan,"Three Rivers","Broadway St and S US Hwy 131",0,1,N/A
+1688129,"May 25, 2020",Pennsylvania,Harrisburg,"Kittatinny St and Hummel St",0,2,N/A
+1689086,"May 25, 2020","North Carolina","North Wilkesboro","1007 6th St",1,0,N/A
+1690054,"May 25, 2020",California,"Elk Grove","7400 block of Brandamore Ct",0,0,N/A
+1688127,"May 25, 2020",Tennessee,Memphis,"4263 Arrow Rd",0,1,N/A
+1687783,"May 25, 2020","New York",Slingerlands,"51 Orchard Hill Rd",2,0,N/A
+1687916,"May 25, 2020","New York",Albany,"Colonie St and Lark St",0,1,N/A
+1687965,"May 25, 2020","West Virginia",Bluefield,"300 block of Union St",0,1,N/A
+1687683,"May 25, 2020",Florida,"Daytona Beach","120 S Ridgewood Ave",0,1,N/A
+1687642,"May 25, 2020",Texas,"San Antonio","5415 N Foster Rd",0,3,N/A
+1688085,"May 25, 2020",Mississippi,Vicksburg,"Grey Creek Dr",0,1,N/A
+1689052,"May 25, 2020",Connecticut,Stamford,"Connecticut Ave",0,1,N/A
+1688218,"May 25, 2020",Virginia,Richmond,"304 W Broad St",0,3,N/A
+1689040,"May 25, 2020",Kentucky,Paducah,"3400 block of Buckner Ln",0,0,N/A
+1687657,"May 25, 2020",Texas,"League City","102 Hobbs Rd",1,0,N/A
+1700164,"May 25, 2020",Pennsylvania,"Carnegie (Heidelberg)","Peters Rd",0,1,N/A
+1690855,"May 25, 2020",Massachusetts,Sturbridge,I-84,0,0,N/A
+1688068,"May 25, 2020",Louisiana,"Bossier City","1100 block of Rickerson St",1,0,N/A
+1689030,"May 25, 2020",Louisiana,Shreveport,"2600 block of Westover Rd",0,1,N/A
+1688522,"May 25, 2020",Nebraska,Nehawka,"3414 54th St",0,1,N/A
+1689936,"May 25, 2020","North Carolina",Durham,"S Alston Ave",0,1,N/A
+1689934,"May 25, 2020","North Carolina",Durham,"3000 block of Weaver St",0,1,N/A
+1689930,"May 25, 2020","North Carolina",Durham,"1500 block of Holloway St",0,1,N/A
+1688491,"May 25, 2020",Florida,"Fort Lauderdale","600 block of NE 14th Ave",0,1,N/A
+1689899,"May 25, 2020","North Carolina",Elizabethtown,"93 Blue Moon Dr",0,1,N/A
+1689011,"May 25, 2020",Illinois,Peoria,"3000 block of Wiswall St",0,1,N/A
+1692910,"May 25, 2020",Pennsylvania,"New Castle","1108 Pin Oak Dr",0,0,N/A
+1689002,"May 25, 2020","New York",Brooklyn,"953 DeKalb Ave",0,1,N/A
+1687995,"May 25, 2020",Virginia,"Newport News","1100 block of 27th St",0,1,N/A
+1689219,"May 25, 2020",Nevada,Mesquite,N/A,1,0,N/A
+1688998,"May 25, 2020","New York","New York (Manhattan)","2nd Ave and E 118th St",0,0,N/A
+1700124,"May 25, 2020",Virginia,Marion,"435 S Main St",0,0,N/A
+1687990,"May 25, 2020",Illinois,Chicago,"800 N St. Louis Ave",0,1,N/A
+1688960,"May 25, 2020",California,Anaheim,"2600 block of E Park Lane",0,2,N/A
+1687982,"May 25, 2020",Louisiana,Metairie,"700 block of Howard Ave",1,0,N/A
+1687619,"May 25, 2020","South Carolina","Myrtle Beach","15th Ave S and Ocean Blvd",1,0,N/A
+1690796,"May 25, 2020",Georgia,Athens,"2900 block of Atlanta Hwy",0,0,N/A
+1690795,"May 25, 2020",Georgia,Athens,"Parkway Dr",0,0,N/A
+1690792,"May 25, 2020",Georgia,Athens,"4th St",0,0,N/A
+1688419,"May 25, 2020",California,Modesto,"W Orangeburg Ave and Enslen Ave",1,0,N/A
+1688298,"May 25, 2020",Virginia,Norfolk,"1000 block of Dubose Dr",1,2,N/A
+1689846,"May 25, 2020",Connecticut,Ledyard,"40 Chapman Ln",1,0,N/A
+1695253,"May 25, 2020",Maine,Lewiston,"230 Bartlett St",0,0,N/A
+1688438,"May 25, 2020",Mississippi,"Ocean Springs",I-10,1,0,N/A
+1688173,"May 25, 2020","District of Columbia",Washington,"3000 block of 30th St SE",0,1,N/A
+1701140,"May 25, 2020",Michigan,Detroit,"13600 block of W Chicago",0,0,N/A
+1688687,"May 25, 2020",Wisconsin,Racine,"1700 block of Howe St",0,1,N/A
+1688734,"May 25, 2020","South Carolina",Cross,"1500 Block of Old Hwy 6",1,0,N/A
+1691261,"May 25, 2020",Texas,Mineola,"1211 N Johnson St",0,0,N/A
+1688194,"May 25, 2020",Texas,"San Antonio","1415 Avant Ave",1,0,N/A
+1688321,"May 25, 2020",Georgia,Atlanta,"Jackson Street and Highland Ave",0,1,N/A
+1688950,"May 25, 2020",Nevada,"Las Vegas","1700 block of E Reno Ave",1,0,N/A
+1689746,"May 25, 2020",Georgia,Pooler,"285 Park Ave",0,1,N/A
+1687869,"May 25, 2020",California,Antioch,"2900 block of Cashew St",0,3,N/A
+1688846,"May 25, 2020","North Carolina","Winston Salem (Winston-salem)","3411 Old Vineyard Rd",0,1,N/A
+1687863,"May 25, 2020",Tennessee,Memphis,"6800 block of Club Ridge Circle",0,2,N/A
+1687857,"May 25, 2020",Tennessee,Memphis,"6523 Ivy Meadows",0,1,N/A
+1687859,"May 25, 2020",Tennessee,Memphis,"3736 Windermere Rd",0,1,N/A
+1687834,"May 25, 2020",Michigan,Detroit,"8200 block of Lauder St",0,1,N/A
+1687831,"May 25, 2020",Michigan,Detroit,"18400 block of Ilene St",0,1,N/A
+1688441,"May 25, 2020",Illinois,Chicago,"1000 block of N Hamlin Ave",0,3,N/A
+1688828,"May 25, 2020","North Carolina",Carthage,N/A,0,0,N/A
+1688817,"May 25, 2020",Texas,"Marble Falls","501 Panther Hollow Dr",0,1,N/A
+1687661,"May 25, 2020",Texas,Houston,"6531 Capridge Dr",1,0,N/A
+1688807,"May 25, 2020",Indiana,"South Bend","1500 block of N Anderson Ave",0,1,N/A
+1688805,"May 25, 2020","South Carolina",Latta,SC-38,0,1,N/A
+1690671,"May 25, 2020",Wisconsin,Milwaukee,"2400 block of N 21st St",1,0,N/A
+1688736,"May 25, 2020",Massachusetts,Somerville,"Greenville St",0,0,N/A
+1688721,"May 25, 2020","South Carolina","Saint Helena Island","Seaside Rd",1,0,N/A
+1688714,"May 25, 2020",California,Oakland,"800 block of Filbert St",0,1,N/A
+1688692,"May 25, 2020",Connecticut,Naugatuck,"39 Horton Hill Rd",0,0,N/A
+1688696,"May 25, 2020",Connecticut,Waterbury,"73 Ives St",0,1,N/A
+1688694,"May 25, 2020",Wisconsin,Racine,"Rupert Blvd and Mertens Ave",0,1,N/A
+1688690,"May 25, 2020",Wisconsin,Racine,"1000 block of S Memorial Dr",0,1,N/A
+1688686,"May 25, 2020",Wisconsin,Racine,"600 block of Barker St",0,0,N/A
+1688683,"May 25, 2020",Connecticut,Waterbury,"Traverse St",0,0,N/A
+1688681,"May 25, 2020",Ohio,Lorain,"1331 Shaffer Dr",0,1,N/A
+1688679,"May 25, 2020",Ohio,Lorain,"2525 Marshall Ave",0,1,N/A
+1687736,"May 25, 2020",Illinois,Chicago,"5600 block of S Drexel Ave",0,1,N/A
+1688669,"May 25, 2020",Ohio,Lorain,"2365 E 37th St",0,2,N/A
+1688667,"May 25, 2020",Tennessee,Chattanooga,N/A,0,1,N/A
+1687765,"May 25, 2020",California,"Los Angeles","11246 Kling St",0,1,N/A
+1687702,"May 25, 2020","District of Columbia",Washington,"800 block of Randolph St NW",0,1,N/A
+1690588,"May 25, 2020","District of Columbia",Washington,"4900 block of N Capitol St NE",0,0,N/A
+1715494,"May 25, 2020",Arizona,"Ash Fork",N/A,0,0,N/A
+1687674,"May 25, 2020",Illinois,Chicago,"12000 S Wallace St",0,1,N/A
+1687755,"May 25, 2020",Arizona,Phoenix,"Loop 101 and Tatum Blvd",1,0,N/A
+1687731,"May 25, 2020",Illinois,Chicago,"1500 S Wood St",0,2,N/A
+1688598,"May 25, 2020",Maryland,Hagerstown,"300 block of Jonathan St",0,1,N/A
+1688630,"May 25, 2020",Arkansas,"Mountain Home",N/A,1,0,N/A
+1688626,"May 25, 2020",Ohio,Columbus,"1182 Smith Rd",1,0,N/A
+1688528,"May 25, 2020",Florida,"Pompano Beach","I-95 and Sample Rd",0,0,N/A
+1690504,"May 25, 2020",Texas,Odessa,"2700 block of Brentwood Dr",0,0,N/A
+1688591,"May 25, 2020",Georgia,Atlanta,"Hollywood Rd and Peyton Rd",0,1,N/A
+1687688,"May 25, 2020",Illinois,Chicago,"8800 block of S May St",0,2,N/A
+1688287,"May 25, 2020",Maryland,Baltimore,"3300 block of Liberty Heights Ave",1,0,N/A
+1688578,"May 25, 2020",Delaware,Dover,"400 block of Barrister Pl",0,0,N/A
+1687685,"May 25, 2020",Illinois,Chicago,"6500 block of S Drexel Ave",0,1,N/A
+1688499,"May 25, 2020",Delaware,Newark,"300 block of Kemper Dr",0,1,N/A
+1687681,"May 25, 2020",Illinois,Chicago,"7300 block of S Paulina St",0,1,N/A
+1687678,"May 25, 2020",Illinois,Chicago,"9800 block of S Ellis Ave",0,1,N/A
+1688459,"May 25, 2020",Florida,Tampa,"E Sligh Ave and N 50th St",1,0,N/A
+1690451,"May 25, 2020",Ohio,Akron,"600 Block of Inman St",0,1,N/A
+1688530,"May 25, 2020","District of Columbia",Washington,"4700 block of 8th St NW",0,0,N/A
+1688505,"May 25, 2020",Illinois,Chicago,"6900 block of S Loomis Blvd",0,1,N/A
+1688497,"May 25, 2020",Illinois,Chicago,"3500 block of W Walnut St",0,1,N/A
+1688484,"May 25, 2020",Illinois,Chicago,"8800 block of S Burley Ave",0,2,N/A
+1688094,"May 25, 2020","District of Columbia",Washington,"1400 block of Fairmont St NW",2,0,N/A
+1688482,"May 25, 2020",Illinois,Chicago,"3000 block of S Gratten Ave",0,1,N/A
+1688475,"May 25, 2020",Indiana,Indianapolis,"5500 block of Portsmouth Ave",0,1,N/A
+1688472,"May 25, 2020",Illinois,Chicago,"9000 block of S Racine Ave",0,1,N/A
+1688989,"May 25, 2020","New York",Brooklyn,"416 Glenmore Ave",1,0,N/A
+1688387,"May 25, 2020",Pennsylvania,Clairton,"Wylie Ave and Henry St",0,2,N/A
+1687659,"May 25, 2020","North Carolina",Wilmington,"400 block of Clay St",1,0,N/A
+1688434,"May 25, 2020","New York",Albany,"Elizabeth St and 4th Ave",0,1,N/A
+1691475,"May 25, 2020","New Jersey","Jersey City","Olean Ave and Communipaw Ave",0,1,N/A
+1690377,"May 25, 2020","North Carolina",Fairmont,"N Walnut St and Jenkins St",0,0,N/A
+1688394,"May 25, 2020",Ohio,Cleveland,"1400 block of W 85th St",1,0,N/A
+1689408,"May 25, 2020",Pennsylvania,Philadelphia,"2900 block of N Bonsall St",0,0,N/A
+1689405,"May 25, 2020",Pennsylvania,Philadelphia,"Belfield Ave and Windrim Ave",0,2,N/A
+1688396,"May 25, 2020",Ohio,Cleveland,"8050 Detroit Ave",1,0,N/A
+1688417,"May 25, 2020",Ohio,Cleveland,"8400 block of Clark Ave",0,1,N/A
+1689402,"May 25, 2020",Pennsylvania,Erie,"1000 block of W 4th St",0,0,N/A
+1688415,"May 25, 2020",Ohio,Cleveland,"E 110th St and Woodhill Ave",0,1,N/A
+1691389,"May 25, 2020",Illinois,"Rock Island","800 block of 19th St",0,0,N/A
+1689380,"May 25, 2020","New Jersey",Newark,"118 Maple Ave",1,0,N/A
+1688384,"May 25, 2020",Louisiana,"New Orleans","Franklin Ave and North Miro St",0,2,N/A
+1689333,"May 25, 2020",Ohio,Warren,"Belvedere Ave SE",0,0,N/A
+1689312,"May 25, 2020",Ohio,Toledo,"800 block of Walnut St",0,1,N/A
+1688370,"May 25, 2020",Pennsylvania,Philadelphia,"2300 block of N 30th St",0,1,N/A
+1688367,"May 25, 2020",California,Hesperia,"Balsam Ave",1,0,N/A
+1688363,"May 25, 2020",Texas,Houston,"5600 block of Antoine Dr",0,0,N/A
+1688356,"May 25, 2020",Kentucky,Independence,"700 block of Hogrefe Rd",0,1,N/A
+1700468,"May 25, 2020",Oklahoma,Bartlesville,"100 block of N Park Ave",0,0,N/A
+1688347,"May 25, 2020",Arizona,Tucson,"200 block of W Mossman St",0,0,N/A
+1687649,"May 25, 2020",Texas,Dallas,"2614 McKinney Ave",1,0,N/A
+1690346,"May 25, 2020",Pennsylvania,Ridgway,"61 Illinois St",0,1,N/A
+1689317,"May 25, 2020",Ohio,Toledo,"3300 block of Monroe St",0,2,N/A
+1688319,"May 25, 2020",Georgia,Norcross,"1205 Oak Loch Trace",1,0,N/A
+1689322,"May 25, 2020",Ohio,Toledo,"400 block of Baden St",0,2,N/A
+1689320,"May 25, 2020",Ohio,Toledo,"1200 block of Dorr St",0,1,N/A
+1688291,"May 25, 2020",Maryland,Baltimore,"3600 block of Spaulding Ave",0,1,N/A
+1688327,"May 25, 2020",Arizona,Phoenix,"S 43rd Ave and W Baseline Rd",0,1,N/A
+1691215,"May 25, 2020",Virginia,Halifax,"Sinai Rd",0,1,N/A
+1687999,"May 25, 2020",Louisiana,"Lake Charles","6780 US-90",0,6,N/A
+1689274,"May 25, 2020",Ohio,Granville,"Silver St",0,0,N/A
+1688902,"May 25, 2020",Colorado,Sedalia,"4700 block of Lambert Ranch Trl",0,1,N/A
+1688277,"May 25, 2020",Nevada,"Las Vegas","5067 Medra Mesa Dr",0,1,N/A
+1690262,"May 25, 2020",Tennessee,Nashville,"I-40 and Fesslers Ln",0,0,N/A
+1693765,"May 25, 2020",Texas,Galveston,"3600 block of Winnie St",0,0,N/A
+1693755,"May 25, 2020",Texas,Galveston,"8100 block of Seawall Blvd",0,1,N/A
+1693745,"May 25, 2020",Texas,Galveston,"2900 block of Seawall Blvd",0,1,N/A
